@@ -6,5 +6,5 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-  base: '/Front end Mentor Cart/',
+  base: '/frontend-mentor-cart/',
 })
